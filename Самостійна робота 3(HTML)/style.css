@@ -1,0 +1,220 @@
+.frame-1 {
+    background-color: var(--white);
+    padding: 0 37px 0 0;
+    display: flex;
+    align-items: flex-start;
+  }
+  .relative-wrapper-one {
+    margin-right: 30px;
+    position: relative;
+  }
+  .timoshik-046-com {
+    height: 60px;
+    width: 407px;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 500;
+    line-height: normal;
+    color: var(--white);
+    display: flex;
+    position: absolute;
+    right: -53px;
+    top: 537px;
+  }
+  .flex-wrapper-one {
+    background-color: rgb(75, 74, 113);
+    padding: 54px 66px 256px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+  }
+  .my-face-1 {
+    width: 225px;
+    height: 300px;
+    margin-bottom: 75px;
+    margin-left: 32px;
+  }
+  .contacts {
+    height: 44px;
+    width: 188px;
+    font-family: "Inter";
+    font-size: 32px;
+    font-weight: 700;
+    line-height: normal;
+    color: var(--white);
+    display: flex;
+    margin-bottom: 16px;
+  }
+  .num-380664415990 {
+    height: 32px;
+    width: 288px;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 500;
+    line-height: normal;
+    color: var(--white);
+    display: flex;
+    margin-bottom: 135px;
+  }
+  .tech-skills {
+    height: 44px;
+    width: 238px;
+    font-family: "Inter";
+    font-size: 32px;
+    font-weight: 700;
+    line-height: normal;
+    color: var(--white);
+    display: flex;
+    margin-bottom: 16px;
+  }
+  .html-css-java-script-git-python {
+    height: 157px;
+    width: 137px;
+    display: flex;
+    margin-bottom: 59px;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 500;
+    line-height: normal;
+    color: var(--white);
+  }
+  .html-css-java-script-git-python-emphasis-0 {
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 700;
+    line-height: normal;
+    color: var(--white);
+  }
+  .soft-skills {
+    height: 40px;
+    width: 252px;
+    font-family: "Inter";
+    font-size: 32px;
+    font-weight: 700;
+    line-height: normal;
+    color: var(--white);
+    display: flex;
+    margin-bottom: 16px;
+  }
+  .scrum-agile-ctd-teamwork {
+    height: 156px;
+    width: 170px;
+    display: flex;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 500;
+    line-height: normal;
+    color: var(--white);
+  }
+  .flex-wrapper-two {
+    padding: 54px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .front-end-developer {
+    height: 66px;
+    width: 342px;
+    font-family: "Inter";
+    font-size: 32px;
+    font-weight: 700;
+    line-height: normal;
+    color: var(--black);
+    display: flex;
+    margin-left: 23px;
+  }
+  .andrii-tymoshyk {
+    height: 67px;
+    width: 652px;
+    font-family: "Inter";
+    font-size: 64px;
+    font-weight: 700;
+    line-height: normal;
+    color: var(--black);
+    display: flex;
+    margin-bottom: 45px;
+    margin-left: 23px;
+  }
+  .i-am-a-skilled-front-end-developer-with {
+    height: 241px;
+    width: 793px;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    color: var(--black);
+    display: flex;
+    margin-bottom: 64px;
+  }
+  .projects {
+    height: 60px;
+    width: 424px;
+    font-family: "Inter";
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 40px;
+    color: var(--black);
+    display: flex;
+    margin-bottom: 30px;
+    margin-left: 23px;
+  }
+  .whisper-messenger-bro-bike-website {
+    height: 103px;
+    width: 448px;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    color: var(--black);
+    display: flex;
+    margin-bottom: 35px;
+    margin-left: 23px;
+  }
+  .work-experience {
+    height: 58px;
+    width: 452px;
+    font-family: "Inter";
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 40px;
+    color: var(--black);
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: 23px;
+  }
+  .front-end-developer-abc-agency-2018 {
+    height: 145px;
+    width: 770px;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 40px;
+    color: var(--black);
+    display: flex;
+    margin-bottom: 28px;
+    margin-left: 23px;
+  }
+  .education {
+    height: 58px;
+    width: 247px;
+    font-family: "Inter";
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 40px;
+    color: var(--black);
+    display: flex;
+    margin-bottom: 5px;
+    margin-left: 23px;
+  }
+  .state-university-of-trade-and-economics {
+    height: 208px;
+    width: 742px;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 40px;
+    color: var(--black);
+    display: flex;
+    margin-left: 41px;
+  }
